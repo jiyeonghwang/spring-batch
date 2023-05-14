@@ -14,7 +14,7 @@ spring:
       username: root
       password: '12345678'
   batch:
-    job:
-      enabled: false
+#    job:
+#      enabled: false
     jdbc:
       initialize-schema: always
